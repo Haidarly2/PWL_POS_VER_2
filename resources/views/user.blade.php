@@ -1,4 +1,4 @@
-{{-- <html lang="en">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -13,21 +13,19 @@
             <th>Username</th>
             <th>Nama</th>
             <th>ID Level Pengguna</th>
-            <th>Jumlah Pengguna</th>
         </tr>
         @foreach ($data as $d)
         <tr>
-            <td>{{ $d->user_id }}</td>
-            <td>{{ $d->username }}</td>
-            <td>{{ $d->nama }}</td>
-            <td>{{ $d->level_id }}</td>
-            <td>{{ $d->user_count }}</td>
+            <td>{{ $data->user_id }}</td>
+            <td>{{ $data->username }}</td>
+            <td>{{ $data->nama }}</td>
+            <td>{{ $data->level_id }}</td>
         </tr>
         @endforeach    
     </table>
 </body>
-</html> --}}
-<html lang="en">
+</html>
+{{-- <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -45,4 +43,4 @@
         </tr>   
     </table>
 </body>
-</html>
+</html> --}}
