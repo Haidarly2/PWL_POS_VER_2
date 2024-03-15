@@ -1,4 +1,93 @@
-# Jawaban Pertanyaan Jobsheet 3
+# Laporan Jobsheet 4
+
+> Nama : Haidar Aly
+
+> Kelas : TI-2F
+
+> Absen : 14
+
+## Praktikum 1
+
+### Fillable Praktik
+#### Dengan Password
+<img src="public/screenshot/Praktikum1_$fillable.png" width="500">
+
+#### Tanpa Password
+<img src="public/screenshot/Praktikum1_$fillable_nopass.png" width="500">
+
+## Praktikum 2
+
+### 2.1 Praktik
+#### Find & first where
+<img src="public/screenshot/Praktikum2.1_find&firstwhere.png" width="500">
+
+#### Find Or
+<img src="public/screenshot/Praktikum2.1_findor.png" width="500">
+
+#### Find Or (20)
+<img src="public/screenshot/Praktikum2.1_findor20.png" width="500">
+
+### 2.2 Praktek
+#### Find Or Fail
+<img src="public/screenshot/Praktikum2.2_findorfail.png" width="500">
+
+#### Find Or Fail 2
+<img src="public/screenshot/Praktikum2.2_findorfail_2.png" width="500">
+
+### 2.3 Praktek
+#### Count
+<img src="public/screenshot/Praktikum2.3_count.png" width="500">
+
+#### Count View
+<img src="public/screenshot/Praktikum2.3_count_view.png" width="500">
+
+### 2.4 Praktek
+#### Create
+<img src="public/screenshot/Praktikum2.4_create.png" width="500">
+
+#### First Create
+<img src="public/screenshot/Praktikum2.4_firstcreate.png" width="500">
+
+#### First New
+<img src="public/screenshot/Praktikum2.4_firstnew.png" width="500">
+
+#### New
+<img src="public/screenshot/Praktikum2.4_new.png" width="500">
+
+#### New Save
+<img src="public/screenshot/Praktikum2.4_newsave.png" width="500">
+
+### 2.5 Praktek
+#### Dirty Clean
+<img src="public/screenshot/Praktikum2.5_dirtyclean.png" width="500">
+
+#### Was Changed
+<img src="public/screenshot/Praktikum2.5_waschanged.png" width="500">
+
+### 2.6 Praktek
+#### CRUD
+<img src="public/screenshot/Praktikum2.6_CRUD.png" width="500">
+
+#### Tambah
+<img src="public/screenshot/Praktikum2.6_tambah.png" width="500">
+
+#### Tambah 2
+<img src="public/screenshot/Praktikum2.6_Tambah_2.png" width="500">
+
+#### Edit
+<img src="public/screenshot/Praktikum2.6_Edit.png" width="500">
+
+#### Edit 2
+<img src="public/screenshot/Praktikum2.6_Edit_2.png" width="500">
+
+#### Hapus
+<img src="public/screenshot/Praktikum2.6_Hapus.png" width="500">
+
+### 2.7 Praktek
+#### Belongs
+<img src="public/screenshot/Praktikum2.7_Belongs.png" width="500">
+
+<!-- # Jawaban Pertanyaan Jobsheet 3
 
 ### 1. Pada Praktikum 1 - Tahap 5, apakah fungsi dari APP_KEY pada file setting .env Laravel?
 > Fungsi dari APP_KEY adalah untuk mengenkripsi data yang akan disimpan di database.
@@ -43,4 +132,4 @@
 > Tujuan dari penulisan kode tersebut adalah untuk menentukan nama tabel dan kolom primary key dari tabel yang akan dibuat.
 
 ### 12. Menurut kalian, lebih mudah menggunakan mana dalam melakukan operasi CRUD ke database (DB Façade / Query Builder / Eloquent ORM) ? jelaskan
-> Pada praktikum 6, lebih mudah menggunakan Query Builder dari Laravel karena lebih mudah dalam penulisan kode dan lebih mudah dalam menggunakan fungsi yang ada pada Query Builder dari Laravel.
+> Pada praktikum 6, lebih mudah menggunakan Query Builder dari Laravel karena lebih mudah dalam penulisan kode dan lebih mudah dalam menggunakan fungsi yang ada pada Query Builder dari Laravel. -->
